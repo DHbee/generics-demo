@@ -6,6 +6,7 @@ import java.util.List;
 /**
  * @Author: psaradhi
  * Created: 14-03-2023
+ * Lower bound means lower restriction or lower limitation
  */
 public class LowerBoundDemo1 {
 
