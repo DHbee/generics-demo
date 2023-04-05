@@ -6,6 +6,7 @@ import java.util.*;
 /**
  * @Author: psaradhi
  * Created: 14-03-2023
+ * Upper bound means upper restriction or uppper limitation
  */
 public class UpperBoundDemo2 {
 
