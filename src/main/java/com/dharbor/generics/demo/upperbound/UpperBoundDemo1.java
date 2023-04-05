@@ -8,6 +8,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 /**
  * @Author: psaradhi
  * Created: 14-03-2023
+ * Upper bound means upper restriction or upper limitation.
  */
 public class UpperBoundDemo1 {
 
