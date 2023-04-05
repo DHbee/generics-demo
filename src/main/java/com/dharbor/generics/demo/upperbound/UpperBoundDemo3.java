@@ -9,6 +9,7 @@ import java.util.List;
 /**
  * @Author: psaradhi
  * Created: 14-03-2023
+ * Upper bound means upper restriction or upper limit
  */
 public class UpperBoundDemo3 {
 
